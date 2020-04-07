@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/filesearch_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/FileSearch.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/META-INF/FileSearch.kotlin_module[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Testbed.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/Testbed.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/FileObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/FileObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/DirectoryObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/DirectoryObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/FilterChecker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/FilterChecker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/Matcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/Matcher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/CheckedObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/CheckedObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/FilterChecker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/FilterChecker$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/FileObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/FileObject$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/FileConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/FileConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/DirectoryObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/DirectoryObject.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fileSearcher/FileConverter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/fernando.covello/Documents/FileSearch/target/scala-2.13/classes/fileSearcher/FileConverter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

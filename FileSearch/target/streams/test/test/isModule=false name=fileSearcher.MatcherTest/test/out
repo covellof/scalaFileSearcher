@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcherTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcher that is passed a file mathing the filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return a list with that file name *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List((fakePath,None)) did not equal List("fakePath", None) (MatcherTest.scala:14)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(0: (fakePath,None) -> fakePath, 1: -> None)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcher using a directory containing one file matching the filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return a list with that file name *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List((build.properties,None)) did not equal List("build.properties", None) (MatcherTest.scala:22)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(0: (build.properties,None) -> build.properties, 1: -> None)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcher that is not passed a root file location[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should search in current location[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcher using a directory containing more one file matching the filter in a subfolder[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return a list with that file name *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List((FileSearch-build.iml,None), (FileSearch.iml,None)) did not equal List("FileSearch-build.iml", "FileSearch.iml", None) (MatcherTest.scala:37)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(0: (FileSearch-build.iml,None) -> FileSearch-build.iml, 1: (FileSearch.iml,None) -> FileSearch.iml, 2: -> None)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcher given a path that has one file that matches file filter and content filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return a list with that file name *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List((build.properties,Some(1))) did not equal List("build.properties", Some(1)) (MatcherTest.scala:48)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  List(0: (build.properties,Some(1)) -> build.properties, 1: -> Some(1))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMatcher given a path that has no file that matches file filter and content filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return an empty list[0m[0m

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b12538bf-a62a-4bc5-877e-274fd3e93266" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FileSearch" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="ScalaTest Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aAgVJuaMk9nlnaTOhP7ml0qOIc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest" value="" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fileSearcher" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.MatcherTest">
+    <configuration name="FilterCheckerTest.FilterChecker passed a file with content that matches the filter should return that the match succeeded" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FileSearch" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="fileSearcher.FilterCheckerTest" />
+      <option name="testName" value="FilterChecker passed a file with content that matches the filter should return that the match succeeded" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FileSearch" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="fileSearcher.MatcherTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherTest.Matcher given a path that has no file that matches file filter and content filter should return an empty list" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FileSearch" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="fileSearcher.MatcherTest" />
+      <option name="testName" value="Matcher given a path that has no file that matches file filter and content filter should return an empty list" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherTest.Matcher given a path that has one file that matches file filter and content filter should return a list with that file name" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FileSearch" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="fileSearcher.MatcherTest" />
+      <option name="testName" value="Matcher given a path that has one file that matches file filter and content filter should return a list with that file name" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherTest.Matcher using a directory containing more one file matching the filter in a subfolder should return a list with that file name" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="FileSearch" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="fileSearcher.MatcherTest" />
+      <option name="testName" value="Matcher using a directory containing more one file matching the filter in a subfolder should return a list with that file name" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.MatcherTest" />
+        <item itemvalue="ScalaTest.MatcherTest.Matcher using a directory containing more one file matching the filter in a subfolder should return a list with that file name" />
+        <item itemvalue="ScalaTest.MatcherTest.Matcher given a path that has one file that matches file filter and content filter should return a list with that file name" />
+        <item itemvalue="ScalaTest.FilterCheckerTest.FilterChecker passed a file with content that matches the filter should return that the match succeeded" />
+        <item itemvalue="ScalaTest.MatcherTest.Matcher given a path that has no file that matches file filter and content filter should return an empty list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="FileSearch" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="filesearch [file:/Users/fernando.covello/Documents/FileSearch/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="FileSearch-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2767294297" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
+        <entry key="$PROJECT_DIR$/project/global.sbt" value="0" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="0" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../forcomp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b12538bf-a62a-4bc5-877e-274fd3e93266" name="Default Changelist" comment="" />
+      <created>1586183834878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586183834878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="91" key="#Project_Structure" timestamp="1586184970555">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="326" y="91" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1586184970555" />
+    <state x="464" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586191545850">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="464" y="216" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1586191545850" />
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom" timestamp="1586289414057">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586289414057" />
+    <state width="1358" height="237" key="GridCell.Tab.0.center" timestamp="1586289414056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586289414056" />
+    <state width="1358" height="237" key="GridCell.Tab.0.left" timestamp="1586289414056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586289414056" />
+    <state width="1358" height="237" key="GridCell.Tab.0.right" timestamp="1586289414057">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586289414057" />
+    <state width="1358" height="237" key="GridCell.Tab.1.bottom" timestamp="1586289414058">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586289414058" />
+    <state width="1358" height="237" key="GridCell.Tab.1.center" timestamp="1586289414058">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1586289414058" />
+    <state width="1358" height="237" key="GridCell.Tab.1.left" timestamp="1586289414058">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1586289414058" />
+    <state width="1358" height="237" key="GridCell.Tab.1.right" timestamp="1586289414058">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="237" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1586289414058" />
+    <state x="227" y="63" key="SettingsEditor" timestamp="1586191197262">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="227" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1586191197262" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1586185465981">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1586185465981" />
+    <state x="307" y="23" width="837" height="825" key="find.popup" timestamp="1586200797993">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="307" y="23" width="837" height="825" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1586200797993" />
+    <state x="484" y="159" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2" timestamp="1586198767733">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="484" y="159" key="org.jetbrains.plugins.scala.testingSupport.ScalaTestCreator$$anon$1$$anon$2/0.23.1440.877@0.23.1440.877" timestamp="1586198767733" />
+    <state x="391" y="207" width="670" height="676" key="search.everywhere.popup" timestamp="1586288847901">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="391" y="207" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1586288847901" />
+  </component>
+</project>
